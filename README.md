@@ -19,19 +19,6 @@ Soy un desarrollador en formación de 18 años con una gran motivación por apre
 🎨 **Diseño y Prototipado:** Figma  
 
 
-## 📊 Estadísticas de GitHub  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPOG&layout=compact&theme=radical)  
-
-
----
-
-
----
-
-## ⭐ Proyectos Destacados  
-🔹 [**Nombre del Proyecto 1**](https://github.com/DanielPOG/Proyecto1) - Descripción breve.  
-
-
 ---
 
 ### 📌 _"El aprendizaje es un camino sin fin, y yo estoy listo para recorrerlo."_
